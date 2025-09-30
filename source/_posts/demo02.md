@@ -6,4 +6,6 @@ tags:
 
 # 测试图片
 
-![](../images/demo02/2025-09-30-07-59-35-image.png)
+
+
+![](E:\blog_test\source\images\demo02\2025-09-30-08-26-40-image.png)

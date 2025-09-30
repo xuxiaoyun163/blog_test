@@ -42,9 +42,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
-# marked:
-#   prependRoot: true
-#   postAsset: true
+marked:
+  prependRoot: true # 在拼接图片路劲时 自动添加根目录
+  postAsset: false
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
