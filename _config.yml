@@ -43,7 +43,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 marked:
-  prependRoot: true # 在拼接图片路劲时 自动添加根目录
+  prependRoot: false # 在拼接图片路劲时 自动添加根目录
   postAsset: true
 relative_link: false
 future: true
