@@ -13,8 +13,8 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xuxiaoyun163.github.io
-root: /blog_test/
+url: https://localhost:4040 #https://xuxiaoyun163.github.io
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,7 +43,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 marked:
-  prependRoot: true # 在拼接图片路劲时 自动添加根目录
+  prependRoot: true # 将根值添加到路径前面  \root\
   postAsset: true
 relative_link: false
 future: true
