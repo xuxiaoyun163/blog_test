@@ -8,4 +8,4 @@ tags:
 
 
 
-![](E:\blog_test\source\images\demo02\2025-09-30-08-26-40-image.png)
+![](images\demo02\2025-09-30-08-26-40-image.png)

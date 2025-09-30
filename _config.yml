@@ -41,10 +41,10 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 marked:
   prependRoot: true # 在拼接图片路劲时 自动添加根目录
-  postAsset: false
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
